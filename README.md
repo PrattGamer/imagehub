@@ -1,6 +1,7 @@
 # imagehub
 
 > A simple image sharing application.
+[Demo]( http://imagehub-demo.herokuapp.com/)
 
 ## About
 
