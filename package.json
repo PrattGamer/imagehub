@@ -2,8 +2,12 @@
   "name": "imagehub",
   "description": "A small image sharing web application",
   "version": "1.0.0",
-  "homepage": "",
+  "homepage": "http://imagehub-demo.herokuapp.com/",
   "main": "src/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PrattGamer/imagehub.git"
+},
   "keywords": [
     "nodejs",
     "express",
@@ -17,7 +21,9 @@
     "email": "ampratyay@gmail.com"
   },
   "contributors": [],
-  "bugs": {},
+  "bugs": {
+    "url": "https://github.com/PrattGamer/imagehub/issues"
+  },
   "directories": {
     "lib": "src",
     "test": "test/"
